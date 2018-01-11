@@ -135,7 +135,7 @@ padding: 30px 30px;
 }
 
 .formButton {
-	background-color: teal;
+	background-color: #666666;
 	color: white;
 }
 
@@ -172,7 +172,98 @@ padding: 30px 30px;
 	float: right;
 }
 
-.imageTitle {
-
+.monster {
+	position: relative;
+  text-align: center;
+  color: white;
+  float: left;
 }
 
+.monsterText {
+  background-color: teal;
+	position: absolute;
+	padding: 15px;
+	width: 170px;
+	left: 30px;
+	top:160px;
+}
+
+.siamese {
+	position: relative;
+  text-align: center;
+  color: white;
+  float: right;
+}
+
+.siameseText {
+  background-color: teal;
+	position: absolute;
+	padding: 15px;
+	width: 170px;
+	left: 30px;
+	top:160px;
+}
+
+.daria {
+	position: relative;
+  text-align: center;
+  color: white;
+  float: left;
+}
+
+.dariaText {
+  background-color: teal;
+	position: absolute;
+	padding: 15px;
+	width: 170px;
+	left: 30px;
+	top:160px;
+}
+
+.doug {
+	position: relative;
+  text-align: center;
+  color: white;
+  float: right;
+}
+
+.dougText {
+  background-color: teal;
+	position: absolute;
+	padding: 15px;
+	width: 170px;
+	left: 30px;
+	top:160px;
+}
+
+.renStimpy {
+	position: relative;
+  text-align: center;
+  color: white;
+  float: left;
+}
+
+.renStimpyText {
+  background-color: teal;
+	position: absolute;
+	padding: 15px;
+	width: 170px;
+	left: 30px;
+	top:160px;
+}
+
+.rocko {
+	position: relative;
+  text-align: center;
+  color: white;
+  float: right;
+}
+
+.rockoText {
+  background-color: teal;
+	position: absolute;
+	padding: 15px;
+	width: 170px;
+	left: 30px;
+	top:160px;
+}
