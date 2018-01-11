@@ -87,3 +87,36 @@ background-color: white;
 float: right;
 }
 
+.contactHeader {
+	color: teal;
+	font-size: 22px;
+	border-bottom: 5px solid lightgrey;
+	margin-bottom: 20px;
+}
+
+.form {
+	background-color: white;
+	border: solid lightgrey;
+	font: 95% Arial, Helvetica, sans-serif;
+  max-width: 600px;
+  margin: 100px;
+  padding: 16px;
+}
+
+.formStyle {
+  box-sizing: border-box;
+  width: 100%;
+  background: #fff;
+  margin-bottom: 4%;
+  border: 1px solid #ccc;
+  padding: 3%;
+  color: #555;
+  font: 95% Arial, Helvetica, sans-serif;
+}
+
+.formButton {
+	background-color: teal;
+	color: white;
+}
+
+
