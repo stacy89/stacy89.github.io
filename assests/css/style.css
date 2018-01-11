@@ -1,6 +1,6 @@
 .container {
 	background-image: url("http://buildwithjon.com/wp-content/uploads/2016/08/White-Texture-HD-Backgrounds-5.jpg");
-	background-size: auto;
+	
 }
 
 ul {
@@ -48,7 +48,7 @@ h1 {
 	position: relative;
 	width: 60%;
 	height: 60%;
-	margin-left: 100px;
+	margin: 100px;
 	width: 800px;
 	height: 500px;
 }
@@ -118,5 +118,39 @@ float: right;
 	background-color: teal;
 	color: white;
 }
+
+.portfolioHeader {
+	color: teal;
+	font-size: 22px;
+	border-bottom: 5px solid lightgrey;
+	margin-bottom: 50px;
+	margin-right: 90px;
+}
+
+.portfolio {
+  margin: 100px;
+  background-color: white;
+  border: 3px solid grey; 
+  width: 750px;
+	height: 1050px;
+	padding-top: 50px;
+	padding-left: 90px;
+	padding-bottom: 200px;
+
+}
+
+.portfolioImg{
+	margin-right: 60px;
+	margin-bottom: 60px;
+}
+
+.imageTitle {
+/*	position: absolute;*/	
+	background-color: teal;
+	color: white;
+	width: 300px;
+	height: 60px
+}
+
 
 
